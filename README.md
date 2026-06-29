@@ -1,3 +1,4 @@
+https://lalanika-reddy.github.io/Plant_disease_detection/
 # 🌾 AI-Enabled Crop Disease Detection & Remediation System
 
 <div align="center">
